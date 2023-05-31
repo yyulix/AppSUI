@@ -2,7 +2,7 @@
 //  AppSUITests.swift
 //  AppSUITests
 //
-//  Created by Yulia on 31.05.2023.
+//  Created by Yulia Popova on 31.05.2023.
 //
 
 import XCTest

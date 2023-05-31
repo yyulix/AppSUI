@@ -14,6 +14,8 @@
 		B2AD08AD2A27BAB60023A4A0 /* AppSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AD08AC2A27BAB60023A4A0 /* AppSUITests.swift */; };
 		B2AD08B72A27BAB60023A4A0 /* AppSUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AD08B62A27BAB60023A4A0 /* AppSUIUITests.swift */; };
 		B2AD08B92A27BAB60023A4A0 /* AppSUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AD08B82A27BAB60023A4A0 /* AppSUIUITestsLaunchTests.swift */; };
+		B2AD08C62A27BBCB0023A4A0 /* DashboardScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AD08C52A27BBCB0023A4A0 /* DashboardScreen.swift */; };
+		B2AD08C82A27BBF90023A4A0 /* ProfileScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AD08C72A27BBF90023A4A0 /* ProfileScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +47,8 @@
 		B2AD08B22A27BAB60023A4A0 /* AppSUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppSUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2AD08B62A27BAB60023A4A0 /* AppSUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSUIUITests.swift; sourceTree = "<group>"; };
 		B2AD08B82A27BAB60023A4A0 /* AppSUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B2AD08C52A27BBCB0023A4A0 /* DashboardScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardScreen.swift; sourceTree = "<group>"; };
+		B2AD08C72A27BBF90023A4A0 /* ProfileScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				B2AD089E2A27BAB60023A4A0 /* Assets.xcassets */,
 				B2AD08A02A27BAB60023A4A0 /* AppSUI.entitlements */,
 				B2AD08A12A27BAB60023A4A0 /* Preview Content */,
+				B2AD08C52A27BBCB0023A4A0 /* DashboardScreen.swift */,
+				B2AD08C72A27BBF90023A4A0 /* ProfileScreen.swift */,
 			);
 			path = AppSUI;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 			files = (
 				B2AD089D2A27BAB50023A4A0 /* ContentView.swift in Sources */,
 				B2AD089B2A27BAB50023A4A0 /* AppSUIApp.swift in Sources */,
+				B2AD08C62A27BBCB0023A4A0 /* DashboardScreen.swift in Sources */,
+				B2AD08C82A27BBF90023A4A0 /* ProfileScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
